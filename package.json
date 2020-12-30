@@ -1,0 +1,15 @@
+{
+  "name": "ecom",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node backend/server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Diaeddine LYAMANI",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
