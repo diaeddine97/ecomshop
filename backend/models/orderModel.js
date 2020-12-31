@@ -1,7 +1,7 @@
-import { mongoose } from 'mongoose';
+import  mongoose  from 'mongoose';
 
 
-const productSchema = mongoose.Schema(
+const orderSchema = mongoose.Schema(
   {
     user: {
       type: mongoose.Schema.Types.ObjectId,
